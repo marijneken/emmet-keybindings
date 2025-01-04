@@ -13,8 +13,8 @@ Balance (Outward / Inward):
 
 ## Evaluate Math Expression
 
-- Mac: <kbd>Cmd</kbd> + <kbd>M</kbd> <kbd>Cmd</kbd> + <kbd>E</kbd>
-- Windows/Linux: <kbd>Ctrl</kbd> + <kbd>M</kbd>  <kbd>Ctrl</kbd> + <kbd>E</kbd>
+- Mac: <kbd>Cmd</kbd> + <kbd>M</kbd> <kbd>Cmd</kbd> + <kbd>=</kbd>
+- Windows/Linux: <kbd>Ctrl</kbd> + <kbd>M</kbd>  <kbd>Ctrl</kbd> + <kbd>=</kbd>
 
 ![2](media/gif/evaluate_math_expression.gif)
 
